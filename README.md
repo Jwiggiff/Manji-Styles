@@ -2,7 +2,7 @@
   <img src="manji.png" />
 </p>
 
-# Manji-Styles
+# Manji Styles
 
 > A chrome extension to make Manji's course sites readable! Created by Josh Friedman (Sci '25).
 
