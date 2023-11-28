@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Manji Styles",
   "description": "Make Dr. Manjikian's websites readable!",
-  "version": "1.0",
+  "version": "1.2",
   "icons": {
     "16": "images/manji-16.png",
     "32": "images/manji-32.png",
